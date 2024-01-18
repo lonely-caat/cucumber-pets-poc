@@ -10,7 +10,6 @@ This project demonstrates how to set up and use Jest and Cucumber for API testin
 - **Axios**: One of the most popular request libraries
 - **Prettier**: One of if not the most popular formatter/linter
 - **dotenv**: a great way to handle multiple envs at the same time
-- **uuid**: A library for generating unique identifiers
 
 ## Setup
 
